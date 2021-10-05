@@ -7,7 +7,7 @@
 // @match        https://secure.findologic.com/login.symfony/web/app.php/*
 // @icon         https://www.google.com/s2/favicons?domain=findologic.com
 // @grant        none
-// @downloadURL  https://github.com/TheKeymaster/clogin-account-link/raw/main/clogin-account-link.js
+// @downloadURL  https://github.com/TheKeymaster/clogin-account-link/raw/main/clogin-account-link.user.js
 // ==/UserScript==
 
 (function() {
