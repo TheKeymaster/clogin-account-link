@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Account link in clogin
-// @namespace    https://www.findologic.com/
+// @namespace    http://tampermonkey.net/
 // @version      0.1.0
 // @description  Quick link inside clogin to go to the Account
 // @author       TheKeymaster
 // @match        https://secure.findologic.com/login.symfony/web/app.php/*
 // @icon         https://www.google.com/s2/favicons?domain=findologic.com
 // @grant        none
+// @downloadURL  https://github.com/TheKeymaster/clogin-account-link/raw/main/clogin-account-link.js
 // ==/UserScript==
 
 (function() {
